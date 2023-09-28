@@ -1,2 +1,6 @@
 # Microsoft-Project-2021-for-Beginners
-Microsoft Project 2021 for Beginners, by Packt Publishing
+Microsoft Project Standard is a project management solution designed to be installed on a desktop. It supports schedule development, budgeting, task management, and reporting. Microsoft Project is designed to help users set realistic goals for project teams and customers by creating schedules, distributing resources, managing budgets, assisting users in creating projects, tracking tasks, and reporting results. 
+
+This comprehensive course is structured to provide a well-rounded understanding of project management using Microsoft Project 2021. Starting with the basics, we will become proficient in fundamental concepts such as project planning, task scheduling, and resource allocation. As we progress, the course delves into advanced topics, including creating custom fields and calculating custom fields, enabling learners to tailor project data precisely to our needs. Additionally, the course covers vital aspects of project cost management, including fixed task costs, cost accrual, and budgeting, empowering learners to confidently handle project finances. 
+
+Upon completing the course, we will become proficient in generating reports communicating project progress and insights. We will create customized reports tailored to specific project management needs, empowering us to convey project data effectively to stakeholders. 
