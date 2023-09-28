@@ -1,0 +1,27 @@
+Name,Start_Date,Finish_Date
+Northern Farm Foods Web Site 20,"February 1, 2023 9:00 AM","October 30, 2023 2:00 PM"
+,,
+"Tendering process, contract","February 1, 2023 9:00 AM","April 12, 2023 9:00 AM"
+,,
+Requirements,"April 12, 2023 9:00 AM","July 26, 2023 9:00 AM"
+Requirements definition,"April 12, 2023 9:00 AM","July 26, 2023 9:00 AM"
+Requirement signoff,"July 12, 2023 9:00 AM","July 12, 2023 9:00 AM"
+,,
+Design and Development,"May 10, 2023 9:00 AM","August 16, 2023 9:00 AM"
+Analysis and Design,"May 10, 2023 9:00 AM","July 20, 2023 9:00 AM"
+Analysis and Design,"May 10, 2023 9:00 AM","July 20, 2023 9:00 AM"
+Design signoff,"July 20, 2023 9:00 AM","July 20, 2023 9:00 AM"
+,,
+Development,"June 21, 2023 9:00 AM","August 16, 2023 9:00 AM"
+Graphical resources and branding,"June 21, 2023 9:00 AM","August 2, 2023 9:00 AM"
+Database implementation,"July 5, 2023 9:00 AM","August 9, 2023 9:00 AM"
+HTML etc.,"July 5, 2023 9:00 AM","August 16, 2023 9:00 AM"
+,,
+Testing,"July 19, 2023 9:00 AM","October 16, 2023 2:00 PM"
+Test script,"July 19, 2023 9:00 AM","August 23, 2023 9:00 AM"
+Testing,"August 24, 2023 9:00 AM","October 16, 2023 2:00 PM"
+User Testing,"September 7, 2023 9:00 AM","September 28, 2023 9:00 AM"
+Acceptance,"October 16, 2023 2:00 PM","October 16, 2023 2:00 PM"
+,,
+Live implementation,"October 16, 2023 2:00 PM","October 30, 2023 2:00 PM"
+Go live,"October 30, 2023 2:00 PM","October 30, 2023 2:00 PM"

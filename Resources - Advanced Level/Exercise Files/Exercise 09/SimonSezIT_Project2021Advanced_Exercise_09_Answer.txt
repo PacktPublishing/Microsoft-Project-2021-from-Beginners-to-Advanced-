@@ -1,0 +1,9 @@
+6	bakersfield associates	btb	2	$65.00/hr	$110.00/hr	$0.00	End	$30,600.00	$24,936.00	$0.00	410 hrs	415.6 hrs	106.5 hrs	50 hrs	External
+12	Contract Consultant	ConCons	1	$0.00/hr	$0.00/hr	$400.00	End	$400.00	$400.00	$400.00	0 hrs	0 hrs	0 hrs	0 hrs	External
+1	Northern Farm Foods	NFF	1	$35.00/hr	$35.00/hr	$0.00	Prorated	$16,450.00	$15,582.00	$9,957.50	470 hrs	445.2 hrs	284.5 hrs	25 hrs	External
+7	People4People	PX	1	$75.00/hr	$150.00/hr	$0.00	Prorated	$5,550.00	$5,550.00	$937.50	74 hrs	74 hrs	12.5 hrs	0 hrs	External
+5	Adrian Hasgill	ABH	1	$50.00/hr	$70.00/hr	$0.00	Prorated	$3,450.00	$2,900.00	$750.00	58 hrs	58 hrs	12.5 hrs	0 hrs	Internal
+4	Lorraine Reese	LJR	1	$40.00/hr	$55.00/hr	$0.00	Prorated	$5,160.00	$5,160.00	$0.00	120 hrs	120 hrs	0 hrs	24 hrs	Internal
+2	Mark Ravenswood	MR	1	$35.00/hr	$50.00/hr	$0.00	Prorated	$5,840.00	$5,840.00	$1,460.00	160 hrs	160 hrs	40 hrs	16 hrs	Internal
+3	Sally Danvers	SD	1	$40.00/hr	$55.00/hr	$0.00	Prorated	$4,080.00	$3,600.00	$3,060.00	102 hrs	90 hrs	76.5 hrs	0 hrs	Internal
+8	Deborah Ashby	DA	1	$40.00/hr	$55.00/hr	$0.00	Prorated	$12,375.00	$16,053.33	$7,040.00	300 hrs	401.33 hrs	176 hrs	25 hrs	Internal
